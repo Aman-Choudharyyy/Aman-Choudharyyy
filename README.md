@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">I'm Aman from Gujarat<br>- 🔭 I’m a Student <br>- 📚 I'm currently learning about Defensive Security<br>- ⚡ In my free time I do casual gaming</h3>
+<h3 align="left">I'm Aman <br>- 🔭 I’m a SOC Analyst <br>- 📚 I'm currently learning about Defensive Security<br>- ⚡ In my free time I do casual gaming</h3>
 
 ###
 
